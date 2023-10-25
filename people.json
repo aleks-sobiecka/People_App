@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Amanda",
+    "lastName": "Night",
+    "age": 53,
+    "email": "amanda.night@gmail.com",
+    "phoneNumber": "861745746"
+  },
+  {
+    "gender": "F",
+    "firstName": "Alex",
+    "lastName": "Night",
+    "age": 77,
+    "email": "alex.night@gmail.com",
+    "phoneNumber": "185682327"
+  },
+  {
+    "gender": "M",
+    "firstName": "Tom",
+    "lastName": "Night",
+    "age": 44,
+    "email": "tom.night@gmail.com",
+    "phoneNumber": "297505157"
+  },
+  {
+    "gender": "M",
+    "firstName": "Tom",
+    "lastName": "Night",
+    "age": 57,
+    "email": "tom.night@gmail.com",
+    "phoneNumber": "951607290"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jack",
+    "lastName": "Snow",
+    "age": 57,
+    "email": "jack.snow@gmail.com",
+    "phoneNumber": "653070430"
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Snow",
+    "age": 39,
+    "email": "john.snow@gmail.com",
+    "phoneNumber": "298699902"
+  },
+  {
+    "gender": "M",
+    "firstName": "Ben",
+    "lastName": "White",
+    "age": 62,
+    "email": "ben.white@gmail.com",
+    "phoneNumber": "171388123"
+  },
+  {
+    "gender": "F",
+    "firstName": "Juliet",
+    "lastName": "Night",
+    "age": 76,
+    "email": "juliet.night@gmail.com",
+    "phoneNumber": "994296681"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jack",
+    "lastName": "Doe",
+    "age": 63,
+    "email": "jack.doe@gmail.com",
+    "phoneNumber": "763827881"
+  },
+  {
+    "gender": "F",
+    "firstName": "Alex",
+    "lastName": "Snow",
+    "age": 53,
+    "email": "alex.snow@gmail.com",
+    "phoneNumber": "937860515"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jack",
+    "lastName": "White",
+    "age": 48,
+    "email": "jack.white@gmail.com",
+    "phoneNumber": "111636290"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anne",
+    "lastName": "Snow",
+    "age": 32,
+    "email": "anne.snow@gmail.com",
+    "phoneNumber": "912843725"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anne",
+    "lastName": "Night",
+    "age": 62,
+    "email": "anne.night@gmail.com",
+    "phoneNumber": "009388271"
+  },
+  {
+    "gender": "F",
+    "firstName": "Eva",
+    "lastName": "Night",
+    "age": 45,
+    "email": "eva.night@gmail.com",
+    "phoneNumber": "592824008"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jack",
+    "lastName": "Snow",
+    "age": 27,
+    "email": "jack.snow@gmail.com",
+    "phoneNumber": "783147859"
+  },
+  {
+    "gender": "M",
+    "firstName": "Dean",
+    "lastName": "Night",
+    "age": 49,
+    "email": "dean.night@gmail.com",
+    "phoneNumber": "054497289"
+  },
+  {
+    "gender": "M",
+    "firstName": "Ben",
+    "lastName": "Snow",
+    "age": 44,
+    "email": "ben.snow@gmail.com",
+    "phoneNumber": "041438114"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jack",
+    "lastName": "White",
+    "age": 29,
+    "email": "jack.white@gmail.com",
+    "phoneNumber": "991557355"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anne",
+    "lastName": "White",
+    "age": 67,
+    "email": "anne.white@gmail.com",
+    "phoneNumber": "361902614"
+  },
+  {
+    "gender": "F",
+    "firstName": "Alex",
+    "lastName": "Brown",
+    "age": 46,
+    "email": "alex.brown@gmail.com",
+    "phoneNumber": "391295809"
+  }
+]
